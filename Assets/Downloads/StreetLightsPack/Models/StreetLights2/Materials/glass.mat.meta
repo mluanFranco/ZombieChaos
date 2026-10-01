@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1fcc71d0a73abc4ea608accc553459b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 31644
+  packageName: Street Lights Pack
+  packageVersion: V1.0
+  assetPath: Assets/StreetLightsPack/Models/StreetLights2/Materials/glass.mat
+  uploadId: 53085

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cdcc6c16809ba5439c8798d9bb925f4
+timeCreated: 1459167880
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32717
+  packageName: Boxes pack
+  packageVersion: 1.1
+  assetPath: Assets/boxes_pack/Prefab/box_med.prefab
+  uploadId: 110047

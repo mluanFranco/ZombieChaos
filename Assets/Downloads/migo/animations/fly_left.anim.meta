@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b93a997f9b4547f49526d3d796759b4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254165
+  packageName: Mi-go
+  packageVersion: 1.0
+  assetPath: Assets/migo/animations/fly_left.anim
+  uploadId: 593720

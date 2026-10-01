@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a991ce3caab51f44889616a93b745f92
+timeCreated: 1459167953
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32717
+  packageName: Boxes pack
+  packageVersion: 1.1
+  assetPath: Assets/boxes_pack/Prefab/pbr_box_supply.prefab
+  uploadId: 110047

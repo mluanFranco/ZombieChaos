@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4656138d9606a80408030bdc231b1233
+timeCreated: 1459167810
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32717
+  packageName: Boxes pack
+  packageVersion: 1.1
+  assetPath: Assets/boxes_pack/Prefab/box_ammo.prefab
+  uploadId: 110047

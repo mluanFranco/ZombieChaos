@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 980093913f8d3084ca7da299bcb183ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16669
+  packageName: Weapons Crate
+  packageVersion: 1.0
+  assetPath: Assets/WeaponsCrate/WeaponsCrate.prefab
+  uploadId: 5275

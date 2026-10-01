@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: beb8e5a826e77456faabf812663231e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254165
+  packageName: Mi-go
+  packageVersion: 1.0
+  assetPath: Assets/migo/animations/attack2.anim
+  uploadId: 593720

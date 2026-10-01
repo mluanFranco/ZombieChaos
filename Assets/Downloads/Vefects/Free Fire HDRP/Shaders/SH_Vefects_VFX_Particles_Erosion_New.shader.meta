@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da38e6d3e3ee6be46a5e8ceb83169048
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239742
+  packageName: Free Fire VFX - HDRP
+  packageVersion: 1.0.2026
+  assetPath: Assets/Vefects/Free Fire HDRP/Shaders/SH_Vefects_VFX_Particles_Erosion_New.shader
+  uploadId: 981736

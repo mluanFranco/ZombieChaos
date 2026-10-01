@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 109f1236e584a46e2a514981af6f729e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254165
+  packageName: Mi-go
+  packageVersion: 1.0
+  assetPath: Assets/migo/animations/walk_right.anim
+  uploadId: 593720

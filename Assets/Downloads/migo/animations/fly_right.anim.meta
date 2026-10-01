@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68298cd900edb43ed93eac44181b8dd9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254165
+  packageName: Mi-go
+  packageVersion: 1.0
+  assetPath: Assets/migo/animations/fly_right.anim
+  uploadId: 593720

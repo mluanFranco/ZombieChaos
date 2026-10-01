@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 755db8c220f0dab418ccd01dbdc3057d
+timeCreated: 1459166915
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32717
+  packageName: Boxes pack
+  packageVersion: 1.1
+  assetPath: Assets/boxes_pack/Mesh/ammo_box_anim.controller
+  uploadId: 110047

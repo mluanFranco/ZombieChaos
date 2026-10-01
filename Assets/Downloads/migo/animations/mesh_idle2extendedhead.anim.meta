@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6de7e83aa4aae420ebc5150f1b471b9b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254165
+  packageName: Mi-go
+  packageVersion: 1.0
+  assetPath: Assets/migo/animations/mesh_idle2extendedhead.anim
+  uploadId: 593720

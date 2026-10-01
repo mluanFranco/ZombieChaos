@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 464802a8183dc9348be0c5e743e5e792
+timeCreated: 1459167926
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32717
+  packageName: Boxes pack
+  packageVersion: 1.1
+  assetPath: Assets/boxes_pack/Prefab/pbr_box_med.prefab
+  uploadId: 110047

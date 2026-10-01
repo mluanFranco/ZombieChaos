@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27e0e377b5a034f708e4b3237b321f77
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254165
+  packageName: Mi-go
+  packageVersion: 1.0
+  assetPath: Assets/migo/animations/operate.anim
+  uploadId: 593720

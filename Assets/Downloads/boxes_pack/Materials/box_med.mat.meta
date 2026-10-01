@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 963644726f4ac664b93746f576b2556d
+timeCreated: 1459162816
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32717
+  packageName: Boxes pack
+  packageVersion: 1.1
+  assetPath: Assets/boxes_pack/Materials/box_med.mat
+  uploadId: 110047

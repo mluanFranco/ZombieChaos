@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f87c0c09265c845e9b986acda454fbdc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254165
+  packageName: Mi-go
+  packageVersion: 1.0
+  assetPath: Assets/migo/animations/extendedhead2idle.anim
+  uploadId: 593720

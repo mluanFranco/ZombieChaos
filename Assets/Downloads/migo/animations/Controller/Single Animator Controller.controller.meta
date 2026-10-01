@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89f36819c5ef44030b68439247dbc20c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254165
+  packageName: Mi-go
+  packageVersion: 1.0
+  assetPath: Assets/migo/animations/Controller/Single Animator Controller.controller
+  uploadId: 593720

@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: a64e40a41b30daf48bbe7c69a944ea54
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153417
+  packageName: Horror Game Essentials
+  packageVersion: 1.0
+  assetPath: Assets/Audios/Character/Surfaces/Steps/Bones/Step_Bones_Trot_Right_2.wav
+  uploadId: 385634

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 739037feef52b4a6a9052cc658da190d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254165
+  packageName: Mi-go
+  packageVersion: 1.0
+  assetPath: Assets/migo/animations/idle.anim
+  uploadId: 593720

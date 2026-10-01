@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7cf368d8e8c92432693d2f0a86887893
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254165
+  packageName: Mi-go
+  packageVersion: 1.0
+  assetPath: Assets/migo/animations/fly_forward.anim
+  uploadId: 593720

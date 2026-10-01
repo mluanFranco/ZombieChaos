@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9129c65084323436b9f4b50442b5ecab
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254165
+  packageName: Mi-go
+  packageVersion: 1.0
+  assetPath: Assets/migo/materials/standard_cullloff.shader
+  uploadId: 593720

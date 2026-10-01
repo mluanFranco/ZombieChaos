@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b846989a995074329980ef37c5760401
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254165
+  packageName: Mi-go
+  packageVersion: 1.0
+  assetPath: Assets/migo/materials/wing_tex.mat
+  uploadId: 593720

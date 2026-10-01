@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2bdb26d3c2ad7457b818fcad729dc38c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254165
+  packageName: Mi-go
+  packageVersion: 1.0
+  assetPath: Assets/migo/animations/walk.anim
+  uploadId: 593720
