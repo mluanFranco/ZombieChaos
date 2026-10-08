@@ -43,3 +43,5 @@
 *.hlsl    linguist-vendored
 *.compute linguist-vendored
 *.html    linguist-vendored
+*.m linguist-vendored
+*.m linguist-language=Objective-C # Wolfram Language
