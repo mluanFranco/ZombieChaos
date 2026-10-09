@@ -27,6 +27,10 @@ Você está preso em uma antiga zona industrial e precisa sobreviver a ondas de 
 | `F` | Interagir (loja de armas) |
 | `Esc` | Pausar |
 
+## Gameplay
+
+<video controls src="github_video.mp4" title="Zombie Chaos"></video>
+
 ## Tecnologias
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
